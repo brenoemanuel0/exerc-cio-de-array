@@ -55,7 +55,7 @@ let reajustador = reajuste.map((numero) => numero + 50)
 console.log("reajuste: ",reajustador)
 
 //exercicio 8
-console.log("exercicio 6")
+console.log("exercicio 8")
 const bomdia = equipe.map((nomes) => "bom dia " + nomes)
 
 console.log(bomdia)
